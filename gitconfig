@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emadam@gmail.com
+	name = Emad Aminmoghadam
